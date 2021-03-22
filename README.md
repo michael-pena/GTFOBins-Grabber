@@ -1,5 +1,5 @@
 # GTFOBins-Grabber
-A post exploitation tool for pen testing/CTFs. After running a command like 
+A post exploitation tool for pen testing/CTFs I made to assist with privilege escalation. After running a command like 
 
 
 ``` find / -type f -perm -04000 -ls 2>/dev/null ```
